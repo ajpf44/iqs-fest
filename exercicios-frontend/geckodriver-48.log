@@ -1,0 +1,17 @@
+1721846989248	geckodriver	INFO	Listening on 127.0.0.1:37211
+1721846989274	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexhPMN5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721846989613	Marionette	INFO	Marionette enabled
+1721846989696	Marionette	INFO	Listening on port 37187
+WebDriver BiDi listening on ws://127.0.0.1:34693
+Read port: 37187
+1721846989846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34693/devtools/browser/6f1e6474-57e5-4cec-b07c-33009f719691
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1721846993850	Marionette	INFO	Stopped listening on port 37187

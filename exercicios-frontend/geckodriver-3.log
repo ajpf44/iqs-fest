@@ -1,0 +1,17 @@
+1721840693398	geckodriver	INFO	Listening on 127.0.0.1:54115
+1721840693424	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaLx5uH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721840693746	Marionette	INFO	Marionette enabled
+1721840693835	Marionette	INFO	Listening on port 38313
+WebDriver BiDi listening on ws://127.0.0.1:38875
+Read port: 38313
+1721840693980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38875/devtools/browser/2e81462e-2717-4b9f-a9ac-73a33882d148
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1721840723758	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1721840748795	Marionette	INFO	Stopped listening on port 38313
